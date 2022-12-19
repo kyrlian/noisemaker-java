@@ -1,0 +1,3 @@
+display track info in new window, update on change
+accept user input in new window
+class SignalSample extends SignalGenerator	//static sample

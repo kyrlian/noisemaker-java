@@ -1,1 +1,3 @@
-# noisemaker-java
+# noiseMaker
+
+My original sound synthesis program, with UI
